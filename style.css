@@ -444,4 +444,7 @@ margin-left: 200px;
     P{
     font-size: 18px;
 }
+img{
+    display: none;
+}
 }
