@@ -434,3 +434,14 @@ margin-left: 200px;
 .infirm{
     width: 300px;
 }
+@media screen and (max-width:828px) {
+    body{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    background-color: red;
+} 
+    P{
+    font-size: 18px;
+}
+}
